@@ -1,0 +1,548 @@
+{
+    "mobileProducts": [
+        {
+            "id": 1,
+            "brand": "Samsung",
+            "model": "Galaxy S21",
+            "storage": "128GB",
+            "color": "Phantom Gray",
+            "price": "30,000",
+            "image": "https://dummyimage.com/600x400/000/fff"
+        },
+        {
+            "id": 2,
+            "brand": "Samsung",
+            "model": "Galaxy 50",
+            "storage": "256GB",
+            "color": "Midnight Green",
+            "price": "42,000",
+            "image": "./images/mobileproducts/GalaxyS21.webp"
+        },
+        {
+            "id": 3,
+            "brand": "Samsung",
+            "model": "S20",
+            "storage": "128GB",
+            "color": "Sorta Seafoam",
+            "price": "22,000",
+            "image": "pixel_6.jpg"
+        },
+        {
+            "id": 4,
+            "brand": "Samsung",
+            "model": "M5",
+            "storage": "256GB",
+            "color": "Morning Mist",
+            "price": "18,000",
+            "image": "oneplus_9_pro.jpg"
+        },
+        {
+            "id": 5,
+            "brand": "Samsung",
+            "model": "Galaxy",
+            "storage": "128GB",
+            "color": "Horizon Blue",
+            "price": "15,000",
+            "image": "xiaomi_mi_11.jpg"
+        },
+        {
+            "id": 6,
+            "brand": "Apple",
+            "model": "iPhone 13",
+            "storage": "256GB",
+            "color": "Classy Blue",
+            "price": "45,000",
+            "image": "lg_v60_thinq.jpg"
+        },
+        {
+            "id": 7,
+            "brand": "Apple",
+            "model": "iPhone 10",
+            "storage": "256GB",
+            "color": "Frosted Gray",
+            "price": "30,000",
+            "image": "sony_xperia_1_iii.jpg"
+        },
+        {
+            "id": 8,
+            "brand": "Apple",
+            "model": "iPhone 13+",
+            "storage": "256GB",
+            "color": "Flash Gray",
+            "price": "55,000",
+            "image": "motorola_moto_g_power.jpg"
+        },
+        {
+            "id": 9,
+            "brand": "Apple",
+            "model": "iPhone 16",
+            "storage": "256GB",
+            "color": "Polar Night",
+            "price": "80,000",
+            "image": "nokia_8.3_5g.jpg"
+        },
+        {
+            "id": 10,
+            "brand": "Apple",
+            "model": "iPhone 12",
+            "storage": "128GB",
+            "color": "Phantom Black",
+            "price": "33,000",
+            "image": "asus_rog_phone_5.jpg"
+        },
+        {
+            "id": 11,
+            "brand": "Oppo",
+            "model": "Z6 Pro",
+            "storage": "256GB",
+            "color": "Red Gradient",
+            "price": "16,000",
+            "image": "lenovo_z6_pro.jpg"
+        },
+        {
+            "id": 12,
+            "brand": "Oppo",
+            "model": "Z6",
+            "storage": "64GB",
+            "color": "Cosmic Black",
+            "price": "12,000",
+            "image": "oppo_find_x3_pro.jpg"
+        },
+        {
+            "id": 13,
+            "brand": "Oppo",
+            "model": "Z6+",
+            "storage": "128GB",
+            "color": "Emperor Blue",
+            "price": "19,000",
+            "image": "vivo_x60_pro_plus.jpg"
+        },
+        {
+            "id": 14,
+            "brand": "Oppo",
+            "model": "Z7",
+            "storage": "128GB",
+            "color": "Final Fantasy",
+            "price": "21,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 15,
+            "brand": "Oppo",
+            "model": "Z8 Pro",
+            "storage": "256GB",
+            "color": "Final Fantasy",
+            "price": "28,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 16,
+            "brand": "Vivo",
+            "model": "GT",
+            "storage": "64GB",
+            "color": "Final Fantasy",
+            "price": "12,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 17,
+            "brand": "Vivo",
+            "model": "V5",
+            "storage": "128GB",
+            "color": "Final Fantasy",
+            "price": "17,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 18,
+            "brand": "Vivo",
+            "model": "V5+",
+            "storage": "128GB",
+            "color": "Final Fantasy",
+            "price": "21,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 19,
+            "brand": "Vivo",
+            "model": "GT Neo",
+            "storage": "256GB",
+            "color": "Final Fantasy",
+            "price": "28,000",
+            "image": "realme_gt_neo.jpg"
+        },
+        {
+            "id": 20,
+            "brand": "Vivo",
+            "model": "GT Neo+",
+            "storage": "256GB",
+            "color": "Final Fantasy",
+            "price": "32,000",
+            "image": "realme_gt_neo.jpg"
+        }
+    ],
+    "clothingProducts": [
+        {
+            "id": 1,
+            "brand": "Nike",
+            "name": "Men's Tech Fleece Hoodie",
+            "size": "M",
+            "color": "Black",
+            "price": 69.99,
+            "image": "nike_tech_fleece_hoodie.jpg"
+        },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "name": "Women's Rib-Knit Sweater",
+            "size": "M",
+            "color": "Burgundy",
+            "price": 34.99,
+            "image": "hm_rib_knit_sweater.jpg"
+        },
+        {
+            "id": 3,
+            "brand": "Nike",
+            "name": "Men's Slim Fit Chinos",
+            "size": "32",
+            "color": "Navy Blue",
+            "price": 39.99,
+            "image": "zara_chinos.jpg"
+        },
+        {
+            "id": 4,
+            "brand": "Nike",
+            "name": "Women's Floral Print Maxi Dress",
+            "size": "L",
+            "color": "Multi",
+            "price": 59.99,
+            "image": "forever21_maxi_dress.jpg"
+        },
+        {
+            "id": 5,
+            "brand": "Nike",
+            "name": "Classic Oxford Shirt",
+            "size": "L",
+            "color": "White",
+            "price": 44.99,
+            "image": "gap_oxford_shirt.jpg"
+        },
+        {
+            "id": 6,
+            "brand": "Adidas",
+            "name": "Women's Modern Cotton Bralette",
+            "size": "S",
+            "color": "Black",
+            "price": 29.99,
+            "image": "calvin_klein_bralette.jpg"
+        },
+        {
+            "id": 7,
+            "brand": "Adidas",
+            "name": "Men's Graphic Tee",
+            "size": "M",
+            "color": "White",
+            "price": 19.99,
+            "image": "urban_outfitters_graphic_tee.jpg"
+        },
+        {
+            "id": 8,
+            "brand": "Adidas",
+            "name": "High-Waisted Skinny Jeans",
+            "size": "28",
+            "color": "Dark Blue",
+            "price": 39.99,
+            "image": "asos_skinny_jeans.jpg"
+        },
+        {
+            "id": 9,
+            "brand": "Adidas",
+            "name": "Women's Ultraboost Running Shoes",
+            "size": "7",
+            "color": "White",
+            "price": 129.99,
+            "image": "adidas_ultraboost_shoes.jpg"
+        },
+        {
+            "id": 10,
+            "brand": "Adidas",
+            "name": "Men's Logo Polo Shirt",
+            "size": "XL",
+            "color": "Navy",
+            "price": 54.99,
+            "image": "tommy_hilfiger_polo_shirt.jpg"
+        },
+        {
+            "id": 11,
+            "brand": "Levi's",
+            "name": "Classic Denim Jacket",
+            "size": "L",
+            "color": "Blue",
+            "price": 79.99,
+            "image": "levis_denim_jacket.jpg"
+        },
+        {
+            "id": 12,
+            "brand": "Levi's",
+            "name": "Men's Cable-Knit Sweater",
+            "size": "L",
+            "color": "Green",
+            "price": 79.99,
+            "image": "ralph_lauren_sweater.jpg"
+        },
+        {
+            "id": 13,
+            "brand": "Levi's",
+            "name": "Women's Midi Wrap Skirt",
+            "size": "S",
+            "color": "Dusty Pink",
+            "price": 49.99,
+            "image": "topshop_wrap_skirt.jpg"
+        },
+        {
+            "id": 14,
+            "brand": "Levi's",
+            "name": "Men's Slim Fit Leather Jacket",
+            "size": "XL",
+            "color": "Black",
+            "price": 149.99,
+            "image": "diesel_leather_jacket.jpg"
+        },
+        {
+            "id": 15,
+            "brand": "Levi's",
+            "name": "Women's Lace Cocktail Dress",
+            "size": "M",
+            "color": "Navy Blue",
+            "price": 69.99,
+            "image": "forever_new_cocktail_dress.jpg"
+        },
+        {
+            "id": 16,
+            "brand": "H&M",
+            "name": "Men's Tech 2.0 Short Sleeve T-Shirt",
+            "size": "XL",
+            "color": "Red",
+            "price": 24.99,
+            "image": "under_armour_tshirt.jpg"
+        },
+        {
+            "id": 17,
+            "brand": "H&M",
+            "name": "Men's Slim Fit Suit",
+            "size": "42R",
+            "color": "Charcoal Gray",
+            "price": 199.99,
+            "image": "guess_suit.jpg"
+        },
+        {
+            "id": 18,
+            "brand": "H&M",
+            "name": "Women's Boho Maxi Skirt",
+            "size": "L",
+            "color": "Ivory",
+            "price": 59.99,
+            "image": "free_people_maxi_skirt.jpg"
+        },
+        {
+            "id": 19,
+            "brand": "H&M",
+            "name": "Men's Classic Polo",
+            "size": "L",
+            "color": "Burgundy",
+            "price": 34.99,
+            "image": "abercrombie_polo.jpg"
+        },
+        {
+            "id": 19,
+            "brand": "H&M",
+            "name": "Men's Classic Polo",
+            "size": "L",
+            "color": "Burgundy",
+            "price": 34.99,
+            "image": "abercrombie_polo.jpg"
+        }
+    ],
+    "shoeProducts": [
+        {
+            "id": 1,
+            "brand": "Nike",
+            "name": "Air Max 270",
+            "size": "10",
+            "color": "White/Black",
+            "price": 129.99,
+            "image": "nike_air_max_270.jpg"
+        },
+        {
+            "id": 2,
+            "brand": "Adidas",
+            "name": "Ultraboost 21",
+            "size": "9",
+            "color": "Core Black",
+            "price": 179.99,
+            "image": "adidas_ultraboost_21.jpg"
+        },
+        {
+            "id": 3,
+            "brand": "Puma",
+            "name": "RS-X Hard Drive",
+            "size": "11",
+            "color": "High Rise/Gray",
+            "price": 99.99,
+            "image": "puma_rs_x_hard_drive.jpg"
+        },
+        {
+            "id": 4,
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star",
+            "size": "8",
+            "color": "Optical White",
+            "price": 49.99,
+            "image": "converse_chuck_taylor.jpg"
+        },
+        {
+            "id": 5,
+            "brand": "New Balance",
+            "name": "990v5",
+            "size": "10",
+            "color": "Gray",
+            "price": 174.99,
+            "image": "new_balance_990v5.jpg"
+        },
+        {
+            "id": 6,
+            "brand": "Vans",
+            "name": "Old Skool",
+            "size": "9",
+            "color": "Black/White",
+            "price": 59.99,
+            "image": "vans_old_skool.jpg"
+        },
+        {
+            "id": 7,
+            "brand": "Reebok",
+            "name": "Classic Leather",
+            "size": "10",
+            "color": "White/Gum",
+            "price": 69.99,
+            "image": "reebok_classic_leather.jpg"
+        },
+        {
+            "id": 8,
+            "brand": "Dr. Martens",
+            "name": "1460 Smooth Boot",
+            "size": "11",
+            "color": "Cherry Red",
+            "price": 149.99,
+            "image": "dr_martens_1460_smooth.jpg"
+        },
+        {
+            "id": 9,
+            "brand": "Timberland",
+            "name": "6-Inch Premium Waterproof Boot",
+            "size": "10",
+            "color": "Wheat",
+            "price": 199.99,
+            "image": "timberland_waterproof_boot.jpg"
+        },
+        {
+            "id": 10,
+            "brand": "Skechers",
+            "name": "Go Walk Evolution Ultra-Impeccable",
+            "size": "9",
+            "color": "Navy/Gray",
+            "price": 54.99,
+            "image": "skechers_go_walk_evolution.jpg"
+        },
+        {
+            "id": 11,
+            "brand": "Nike",
+            "name": "React Element 55",
+            "size": "8",
+            "color": "Pure Platinum/Blue",
+            "price": 109.99,
+            "image": "nike_react_element_55.jpg"
+        },
+        {
+            "id": 12,
+            "brand": "Adidas",
+            "name": "NMD R1",
+            "size": "9",
+            "color": "Solar Red",
+            "price": 139.99,
+            "image": "adidas_nmd_r1.jpg"
+        },
+        {
+            "id": 13,
+            "brand": "Puma",
+            "name": "Thunder Spectra",
+            "size": "10",
+            "color": "Puma Black/Red",
+            "price": 119.99,
+            "image": "puma_thunder_spectra.jpg"
+        },
+        {
+            "id": 14,
+            "brand": "Converse",
+            "name": "Chuck 70 High Top",
+            "size": "8",
+            "color": "Sunflower Yellow",
+            "price": 64.99,
+            "image": "converse_chuck_70_high_top.jpg"
+        },
+        {
+            "id": 15,
+            "brand": "New Balance",
+            "name": "327",
+            "size": "9",
+            "color": "Burgundy",
+            "price": 89.99,
+            "image": "new_balance_327.jpg"
+        },
+        {
+            "id": 16,
+            "brand": "Vans",
+            "name": "SK8-Hi",
+            "size": "10",
+            "color": "True White",
+            "price": 69.99,
+            "image": "vans_sk8_hi.jpg"
+        },
+        {
+            "id": 17,
+            "brand": "Reebok",
+            "name": "Club C 85",
+            "size": "11",
+            "color": "White/Collegiate Navy",
+            "price": 79.99,
+            "image": "reebok_club_c_85.jpg"
+        },
+        {
+            "id": 18,
+            "brand": "Dr. Martens",
+            "name": "2976 Chelsea Boot",
+            "size": "12",
+            "color": "Black Smooth",
+            "price": 139.99,
+            "image": "dr_martens_2976_chelsea_boot.jpg"
+        },
+        {
+            "id": 19,
+            "brand": "Timberland",
+            "name": "Courma Guy Waterproof Boot",
+            "size": "10",
+            "color": "Dark Brown",
+            "price": 159.99,
+            "image": "timberland_waterproof_boot_2.jpg"
+        },
+        {
+            "id": 20,
+            "brand": "Skechers",
+            "name": "D'Lites Sneaker",
+            "size": "8",
+            "color": "Pink/White",
+            "price": 49.99,
+            "image": "skechers_dlites_sneaker.jpg"
+        }
+    ]
+}
