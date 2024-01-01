@@ -1,0 +1,28 @@
+.sidebar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    transition: width 0.3s ease;
+}
+
+
+@media (max-width: 1000px) {
+    .sidebar {
+        width: 0;
+        overflow: hidden;
+    }
+
+    .sidebar.open {
+        width: 30%; 
+        overflow: visible;
+    }
+}
+
+
+.hamburger-icon {
+    cursor: pointer;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: 10px;
+}

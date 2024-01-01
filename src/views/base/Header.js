@@ -19,8 +19,8 @@ function Header() {
                         <NavLink to='/products' style={{ textDecoration: "none", color: "black" }}><p>Products</p></NavLink>
                     </Nav>
                     <Nav className='d-flex gap-3'>
-                        <NavLink to=''><Button color='primary'>Login</Button></NavLink>
-                        <NavLink to=''><Button color='primary' outline >Signup</Button></NavLink>
+                        <NavLink to='/signup'><Button color='primary' type='Login'>Login</Button></NavLink>
+                        <NavLink to='/signup'><Button color='primary' type='Signup' outline >Signup</Button></NavLink>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

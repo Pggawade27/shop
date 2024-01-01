@@ -10,6 +10,8 @@ import { Routes } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import './App.css'
 import Electronics from './views/components/pages/Electronics';
+import SideMenue from './views/components/sidemenue/SideMenue';
+import Signup from './views/base/Signup';
 
 function App() {
   return (
@@ -22,6 +24,7 @@ function App() {
           <Route path='/contact' element={<Contact />} />
           <Route path='/products' element={<Products />} />
           <Route path='/electronics' element={<Electronics/>} />
+          <Route path='/signup' element={<Signup/>} />
         </Routes>
       </Router>
     </>
